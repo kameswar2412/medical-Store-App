@@ -1,0 +1,37 @@
+.logo-part{
+    text-align: center;
+}
+.logo-text{
+    text-align: center;
+    margin-top: 7px;
+}
+.topbar-box{
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+.fa-user{
+    text-align:center;
+}
+.user-logo{
+    text-align: center;
+    color: yellowgreen;
+    
+}
+.logo-text{
+    font-size:20px;
+}
+.user-logo:hover{
+    color: red;
+}
+.fa-clinic-medical{
+    color: green;
+}
+.topbar-box{
+    background-color:rgb(163, 173, 173);
+    display: flex;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    max-height: 70px;
+}

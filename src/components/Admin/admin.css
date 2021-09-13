@@ -1,0 +1,56 @@
+.admin_body {
+    background-color: rgb(204, 201, 201);
+    max-width: 100%;
+}
+
+
+.admin_header {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    height: auto;
+    background-color: rgb(210, 210, 210);
+}
+
+.inventory_menu{
+    background-color: rgb(3, 83, 30);
+    padding: 8px 10px;
+    color: white; 
+}
+
+.team_menu,
+.order_menu {
+    background-color: rgb(3, 83, 30);
+    padding: 8px 10px;
+    color: white;
+}
+
+.team_menu,
+.order_menu {
+    margin-top: 10px;
+}
+
+.admin_button {
+    font-size: 20px;
+    padding: 5px 10px;
+    border: 1px solid #1c8ef8;
+    border-radius: 5px;
+    margin: 15px 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.admin_button:hover {
+    text-decoration: none;
+    color: black
+}
+
+/* Active Button */
+
+.admin_active_button {
+    background-color: #1c8ef8;
+    color: white;
+}
+.form-inline{
+    display: block;
+}

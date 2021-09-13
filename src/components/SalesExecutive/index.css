@@ -1,0 +1,39 @@
+.sales_executive_body {
+    background-color: rgb(237, 237, 237);
+    display: flex;
+}
+
+
+.sales_executive_header {
+    display: flex;
+    text-align: center;
+    /* width: 25%; */
+    /* position: fixed; */
+    right: 0;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(210, 210, 210);
+}
+
+
+.sales_executive_button {
+    font-size: 20px;
+    padding: 5px 10px;
+    border: 1px solid #1c8ef8;
+    border-radius: 5px;
+    margin: 15px 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.sales_executive_button:hover {
+    text-decoration: none;
+    color: black
+}
+
+/* Active Button */
+
+.sales_executive_active_button {
+    background-color: #1c8ef8;
+    color: white;
+}
