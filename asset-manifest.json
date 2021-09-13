@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myapp--010/blob/master/src/App.js/static/css/main.dcb1c202.chunk.css",
+    "main.js": "/myapp--010/blob/master/src/App.js/static/js/main.f14d217c.chunk.js",
+    "main.js.map": "/myapp--010/blob/master/src/App.js/static/js/main.f14d217c.chunk.js.map",
+    "runtime-main.js": "/myapp--010/blob/master/src/App.js/static/js/runtime-main.54c2dd25.js",
+    "runtime-main.js.map": "/myapp--010/blob/master/src/App.js/static/js/runtime-main.54c2dd25.js.map",
+    "static/js/2.c3b9ff93.chunk.js": "/myapp--010/blob/master/src/App.js/static/js/2.c3b9ff93.chunk.js",
+    "static/js/2.c3b9ff93.chunk.js.map": "/myapp--010/blob/master/src/App.js/static/js/2.c3b9ff93.chunk.js.map",
+    "static/js/3.16d5dfc3.chunk.js": "/myapp--010/blob/master/src/App.js/static/js/3.16d5dfc3.chunk.js",
+    "static/js/3.16d5dfc3.chunk.js.map": "/myapp--010/blob/master/src/App.js/static/js/3.16d5dfc3.chunk.js.map",
+    "index.html": "/myapp--010/blob/master/src/App.js/index.html",
+    "static/css/main.dcb1c202.chunk.css.map": "/myapp--010/blob/master/src/App.js/static/css/main.dcb1c202.chunk.css.map",
+    "static/js/2.c3b9ff93.chunk.js.LICENSE.txt": "/myapp--010/blob/master/src/App.js/static/js/2.c3b9ff93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c2dd25.js",
+    "static/js/2.c3b9ff93.chunk.js",
+    "static/css/main.dcb1c202.chunk.css",
+    "static/js/main.f14d217c.chunk.js"
+  ]
+}
